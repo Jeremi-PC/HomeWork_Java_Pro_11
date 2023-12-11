@@ -19,4 +19,5 @@ public class UserTestClass {
     private int age;
     private String[] favoriteDishes = {"Steak", "Vegetables", "Fruits"};
 
+
 }

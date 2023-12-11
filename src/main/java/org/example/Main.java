@@ -13,5 +13,7 @@ public class Main {
      boolean isEquals = user.getFirstName().equals(user.getLastName());
      System.out.println(isEquals);
      System.out.printf("User %s %s %d years old. Has a few favorite dishes: %s%n", user.getLastName(), user.getFirstName(), user.getAge(), dishes);
+
+    // при создании экземпляра класса все поля доступны
     }
 }
